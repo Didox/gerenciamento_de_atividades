@@ -1,0 +1,2 @@
+class StringToTaskError < Exception
+end
